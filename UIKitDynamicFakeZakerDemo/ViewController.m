@@ -30,21 +30,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-//    UIView *aView = [[UIView alloc] initWithFrame:CGRectMake(100, 50, 100, 100)];
-//    aView.backgroundColor = [UIColor lightGrayColor];
-//    [self.view addSubview:aView];
-//    
-//    UIDynamicAnimator* animator = [[UIDynamicAnimator alloc] initWithReferenceView:self.view];
-//    UIGravityBehavior* gravityBeahvior = [[UIGravityBehavior alloc] initWithItems:@[aView]];
-//    [animator addBehavior:gravityBeahvior];
-//    
-//    UICollisionBehavior* collisionBehavior = [[UICollisionBehavior alloc] initWithItems:@[aView]];
-//    collisionBehavior.translatesReferenceBoundsIntoBoundary = YES;
-//    [animator addBehavior:collisionBehavior];
-//    collisionBehavior.collisionDelegate = self;
-//    
-//    self.animator = animator;
-    
     [self initFakeZakerView];
 }
 

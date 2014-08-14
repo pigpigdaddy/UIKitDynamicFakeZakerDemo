@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A7D6353E-E95A-411D-916F-CEE53521B1A7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIKitDynamicFakeZakerDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F822ED02-A087-4209-ABE7-D127F82CC98F</key>
+		<string>https://github.com/pigpigdaddy/UIKitDynamicFakeZakerDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIKitDynamicFakeZakerDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F822ED02-A087-4209-ABE7-D127F82CC98F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pigpigdaddy/UIKitDynamicFakeZakerDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F822ED02-A087-4209-ABE7-D127F82CC98F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F822ED02-A087-4209-ABE7-D127F82CC98F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIKitDynamicFakeZakerDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
